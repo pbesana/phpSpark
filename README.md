@@ -1,2 +1,2 @@
 # phpSpark
-php of framework 
+framework 
